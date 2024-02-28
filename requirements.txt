@@ -1,0 +1,13 @@
+paddleocr==2.7.0.3
+dlib==19.24.2
+numpy==1.26.3
+opencv-python==4.6.0.66
+PyMySQL==1.1.0
+uvicorn==0.15.0
+pytesseract==0.3.10
+fastapi==0.75.1
+sshtunnel==0.4.0
+pydantic==1.10.13
+pillow==10.2.0
+pandas==2.1.4
+openai==1.11.1
